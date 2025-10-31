@@ -80,7 +80,6 @@ Contains student information such as grades, study time, alcohol consumption, an
 **Aditya Kumar Sahu**  
 Machine Learning Enthusiast | Data Science Learner
 
----
 
-## 🪪 License
-This project is open-source and available under the [MIT License](LICENSE).
+
+
